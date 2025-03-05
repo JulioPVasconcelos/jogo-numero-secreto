@@ -13,7 +13,7 @@ function mensagemInicial() {
   exibirTextoNaTela("h1", "Jogo do Número Secreto");
   exibirTextoNaTela("p", "Escolha um número entre 1 e 10");
 }
-
+// Comentario check Github
 mensagemInicial();
 
 function verificarChute() {
